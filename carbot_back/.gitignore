@@ -1,0 +1,11 @@
+/node_modules
+
+.env
+
+private.key
+
+credentials.json
+
+/carbot_back/controllers/auth
+controllers/dealer
+/controllers/user
